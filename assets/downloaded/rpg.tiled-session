@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "32x32_DEMO.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "DEMO.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 3
+        },
+        "maps/map01.tmx": {
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 190.83333333333331,
+                "y": 135.66666666666666
+            }
+        },
+        "maps/map01.tmx#tiles": {
+            "scaleInDock": 1
+        },
+        "maps/tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/home/me/code/lua/rpg/assets/maps",
+    "last.imagePath": "/home/me/code/lua/rpg/assets/PALands_DEMO",
+    "lastUsedTilesetExportFilter": "All Files (*)",
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "rpg.tiled-project",
+    "recentFiles": [
+        "maps/tiles.tsx",
+        "maps/map01.tmx",
+        "DEMO.tsx",
+        "32x32_DEMO.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
